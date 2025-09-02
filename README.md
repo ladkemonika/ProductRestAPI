@@ -30,12 +30,12 @@ Swagger UI is included for API documentation and testing.(http://localhost:8080/
 
 ---
 API Endpoints
-HTTP Method	Endpoint	Description
+HTTP   Method	Endpoint	      Description
 GET	    /products	            Get all products
 GET	    /products/{id}	      Get a product by ID
-POST	  /products	          Create a new product
+POST	  /products	            Create a new product
 PUT	    /products/{id}	      Update an existing product
-DELETE	/products/{id}	  Delete a product
+DELETE	/products/{id}	      Delete a product
 
-
+----------****************--------------
 
